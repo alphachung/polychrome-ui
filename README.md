@@ -1,5 +1,9 @@
-# Mono UI Theme for Atom
+# Polychrome UI Theme for Atom
 
-A gray and flat theme, streamlined for Atom. Inspired by the [Proton](https://github.com/simko-io/proton) theme.
+A gray and flat theme, streamlined for Atom. Inspired by the monokai color scheme.
 
-** Optimize your experience using the [Mono Tomorrow Syntax](http://atom.io/packages/mono-tomorrow-syntax) theme.
+Shown below with the [file-icons](https://github.com/DanBrooker/file-icons) and the [minimap](https://github.com/fundon/atom-minimap) packages.
+
+![polychrome](http://i.imgur.com/d9lImap.png)
+
+** Optimize your experience using the [Polychrome Syntax](http://atom.io/packages/polychrome-syntax) theme.
