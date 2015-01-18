@@ -1,7 +1,7 @@
 {
   "name": "polychrome-ui-breezydark",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.2.4",
   "description": "Modified Polychrome UI theme to fit in better with the Breeze Dark color scheme of KDE 5",
   "repository": "https://github.com/alphachung/polychrome-ui-breezydark",
   "license": "MIT",
