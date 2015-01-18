@@ -9,19 +9,22 @@
 	background-color: @app-background-color;
 }
 
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
 
-::-webkit-scrollbar-track {
-  background: @scrollbar-background-color;
-}
+.scrollbars-visible-always {
+	/deep/ ::-webkit-scrollbar {
+		width: 8px;
+		height: 8px;
+	}
 
-::-webkit-scrollbar-thumb {
-  background-color: @scrollbar-color;
-}
+	/deep/ ::-webkit-scrollbar-track {
+		background: @scrollbar-background-color;
+	}
 
-::-webkit-scrollbar-corner {
-  background: transparent;
+	/deep/ ::-webkit-scrollbar-thumb {
+		background-color: @scrollbar-color;
+	}
+
+	/deep/ ::-webkit-scrollbar-corner {
+		background: transparent;
+	}
 }
