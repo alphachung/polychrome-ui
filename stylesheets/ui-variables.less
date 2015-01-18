@@ -3,7 +3,7 @@
 @import "syntax-variables";
 
 @text-color: @cool-light-gray;
-@text-color-subtle: @warm-very-light-gray;
+@text-color-subtle: @cool-very-light-gray;
 @text-color-highlight: @cool-very-light-gray;
 @text-color-selected: @cool-very-light-gray;
 @text-color-info: @cyan;
@@ -22,8 +22,8 @@
 @background-color-success: @green;
 @background-color-warning: @orange;
 @background-color-error: @red;
-@background-color-highlight: @warm-light-gray;
-@background-color-selected: @warm-gray;
+@background-color-highlight: darken(@cool-light-gray, 30%);
+@background-color-selected: @cool-gray;
 
 @scrollbar-background-color: transparent;
 @scrollbar-color: rgba(0, 0, 0, 0.25);
@@ -53,10 +53,10 @@
 @overlay-background-color: @tool-panel-background-color;
 @overlay-border-color: @background-color-highlight;
 
-@button-background-color: @warm-very-light-gray;
+@button-background-color: @cool-very-light-gray;
 @button-background-color-hover: @background-color-highlight;
 @button-background-color-selected: @background-color-selected;
-@button-border-color: @warm-light-gray;
+@button-border-color: @cool-light-gray;
 
 @tab-bar-background-color: @cool-gray;
 @tab-bar-border-color: @cool-gray;
@@ -88,5 +88,5 @@
 
 // Other
 
-@font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-@font-family-code: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+@font-family: Oxygen-Sans, 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+@font-family-code: Oxygen-Sans, 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;

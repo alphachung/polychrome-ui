@@ -1,9 +1,5 @@
-# Polychrome UI Theme for Atom
+# Polychrome UI Breezy Theme
 
-A gray and flat theme, streamlined for Atom. Inspired by the monokai color scheme.
+The Polychrome UI theme, modified to fit in better with the Breeze Dark colors of the KDE Framework 5 / Plasma 5 Desktop. (It is not exactly those colors, but the color temperature fits in better)
 
-Shown below with the [file-icons](https://github.com/DanBrooker/file-icons) and the [minimap](https://github.com/fundon/atom-minimap) packages.
-
-![polychrome](http://i.imgur.com/5kmwH9I.png)
-
-** Optimize your experience using the [Polychrome Syntax](http://atom.io/packages/polychrome-syntax) theme.
+![polychrome](http://i.imgur.com/CH8fzkz.png)
